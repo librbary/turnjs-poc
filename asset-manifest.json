@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/turnjs-poc/static/css/main.b68e12a8.css",
+    "main.js": "/turnjs-poc/static/js/main.d47f3889.js",
+    "index.html": "/turnjs-poc/index.html",
+    "main.b68e12a8.css.map": "/turnjs-poc/static/css/main.b68e12a8.css.map",
+    "main.d47f3889.js.map": "/turnjs-poc/static/js/main.d47f3889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b68e12a8.css",
+    "static/js/main.d47f3889.js"
+  ]
+}
